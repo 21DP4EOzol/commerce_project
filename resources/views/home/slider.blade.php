@@ -8,15 +8,13 @@
                   <div class="col-md-7">
                     <div class="detail-box"> 
                       <h1>
-                        Welcome To Our <br>
-                        Gift Shop
+                        Welcome To Unboxed <br>
+                        
                       </h1>
                       <p>
-                        Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
+                      Explore a world where innovation meets convenience. At Unboxed, we bring you the latest products, exceptional quality, and a seamless shopping experience. Join us in discovering unique finds and exclusive deals, crafted just for you.
                       </p>
-                      <a href="">
-                        Contact Us
-                      </a>
+                      
                     </div>
                   </div>
                   <div class="col-md-5 ">

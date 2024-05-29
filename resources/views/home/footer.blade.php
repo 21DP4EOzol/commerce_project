@@ -1,20 +1,5 @@
 <section class="info_section  layout_padding2-top">
-    <div class="social_container">
-      <div class="social_box">
-        <a href="">
-          <i class="fa fa-facebook" aria-hidden="true"></i>
-        </a>
-        <a href="">
-          <i class="fa fa-twitter" aria-hidden="true"></i>
-        </a>
-        <a href="">
-          <i class="fa fa-instagram" aria-hidden="true"></i>
-        </a>
-        <a href="">
-          <i class="fa fa-youtube" aria-hidden="true"></i>
-        </a>
-      </div>
-    </div>
+    
     <div class="info_container ">
       <div class="container">
         <div class="row">
@@ -23,19 +8,17 @@
               ABOUT US
             </h6>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet,
+            At Unboxed, we provide a seamless shopping experience with top-quality products. Our mission is to serve our customers with integrity and excellence. Discover the Unboxed difference today.
             </p>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="info_form ">
-              <h5>
-                Newsletter
-              </h5>
-              <form action="#">
-                <input type="email" placeholder="Enter your email">
-                <button>
-                  Subscribe
-                </button>
+            <h6>
+              OUR PROMISE
+            </h6>
+            <p>
+            At Unboxed, we are committed to delivering exceptional quality and service. Every product is carefully selected to meet your highest standards. Trust us to bring innovation and convenience to your doorstep. Your satisfaction is guaranteed.
+            </p>
               </form>
             </div>
           </div>
@@ -44,7 +27,7 @@
               NEED HELP
             </h6>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet,
+            We're here to assist with any questions or concerns. Contact us via email, phone, or visit our FAQ section. Your satisfaction is our priority.
             </p>
           </div>
           <div class="col-md-6 col-lg-3">
@@ -54,15 +37,15 @@
             <div class="info_link-box">
               <a href="">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
-                <span> Gb road 123 london Uk </span>
+                <span> Brīvības iela 224a Riga LV </span>
               </a>
               <a href="">
                 <i class="fa fa-phone" aria-hidden="true"></i>
-                <span>+01 12345678901</span>
+                <span>+371 67 123 456</span>
               </a>
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
-                <span> demo@gmail.com</span>
+                <span> Unboxed@gmail.com</span>
               </a>
             </div>
           </div>
